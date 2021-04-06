@@ -1,3 +1,5 @@
 # suka
 
 PIDOR
+
+govnoed zopa
